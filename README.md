@@ -20,7 +20,8 @@ Neste desafio de projeto iremos criar um Cluster Swarm local, utilizando máquin
 
 **5.** As demais máquinas deverão ser incluídas no cluster Swarm como Workers;
 
-**Pré-requisitos**
+## Pré-requisitos ##
 
 Conhecimento em Docker (Cluster Swarm);
+
 Conhecimento em Git e GitHub;
