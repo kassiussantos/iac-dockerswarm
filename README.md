@@ -4,7 +4,7 @@ Cloud DevOps Experience - Banco Carrefour
 
 Automação com Vagrant de um Cluster Swarm Local usando Virtual Box
 
-# **Descrição**
+## **Descrição**
 
 Neste desafio de projeto iremos criar um Cluster Swarm local, utilizando máquinas virtuais, além, de aplicar nossos conhecimentos em Vagrant. Também vamos aprender uma forma de evitar as implementações manualmente, melhorando o desempenho dos desenvolvedores.
 
@@ -22,6 +22,4 @@ Neste desafio de projeto iremos criar um Cluster Swarm local, utilizando máquin
 
 ## Pré-requisitos ##
 
-Conhecimento em Docker (Cluster Swarm);
-
-Conhecimento em Git e GitHub;
+- Virtualbox, Linux, Git, GitHub, Docker Cluster Swarm
